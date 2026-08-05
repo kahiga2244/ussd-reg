@@ -1,0 +1,33 @@
+Dial USSD
+
+↓
+Welcome
+
+1. Register
+2. Search
+3. Exit
+
+↓
+Select ID Type
+
+1. National ID
+2. Alien ID
+3. Maisha ID
+
+↓
+Enter ID Number
+
+↓
+Enter Phone Number
+
+↓
+Enter Email Address
+
+↓
+Create Password
+
+↓
+Save User
+
+↓
+Registration Successful
