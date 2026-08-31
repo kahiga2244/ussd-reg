@@ -1,0 +1,145 @@
+{
+    "successful": true,
+    "id_number": "027191514",
+    "id_type": "NATIONAL ID",
+    "status": null,
+    "serial_no": "705976861",
+    "full_names": "ALFRED KIPLAGAT KETTER",
+    "gender": "M",
+    "mother_full_name": "THERESA JEPTUM  MOSBEI",
+    "date_end_validity": "",
+    "nationality": "KENYAN"
+}
+{
+    "successful": true,
+    "id_number": "021357124",
+    "id_type": "NATIONAL ID",
+    "status": null,
+    "serial_no": "240572915",
+    "full_names": "MARY MUTHONI KIMARI",
+    "gender": "F",
+    "mother_full_name": "DORIS WANJIRU",
+    "date_end_validity": "",
+    "nationality": "KENYAN"
+}
+{
+    "successful": true,
+    "id_number": "024452061",
+    "id_type": "NATIONAL ID",
+    "status": null,
+    "serial_no": "242239903",
+    "full_names": "NOOR JAMA YUSUF",
+    "gender": "M",
+    "mother_full_name": "ZAINAB JAMA YUSUF",
+    "date_end_validity": "",
+    "nationality": "KENYAN"
+}
+{
+        "status": "registered",
+        "registration_number": "CPR/2012/79231",
+        "registration_date": "17 July 2012",
+        "postal_address": "48076  - 00100",
+        "phone_number": null,
+        "partners": [
+            {
+                "type": "director_shareholder",
+                "shares": [
+                    {
+                        "number_of_shares": 1,
+                        "name": "ORDINARY"
+                    }
+                ],
+                "name": "MANSUKHLAL HARIDAS JAMNADAS CHOTAI",
+                "id_type": "citizen",
+                "id_number": "1329276",
+                "gender": "M"
+            },
+            {
+                "type": "secretary",
+                "shares": [],
+                "name": "VIPU…
+{
+    "user_id": "1d2517a4-d8ec-4314-bfc5-d99496d59f17",
+    "id": "d14cd218-0fcd-4141-9929-a0cf50dac37a",
+    "name": "EXECUTIVE CONCEPTS LIMITED",
+    "reg_num": "CPR/2012/79231",
+    "registration_number": "CPR/2012/79231",
+    "krapin": "P051395867U",
+    "phonenum": "0722722741",
+    "phonenumber": "+254722722741",
+    "postal_address": "P.O. Box 19031-00500",
+    "physical_address": null,
+    "street_address": null,
+    "website": null,
+    "representative_status": false,
+    "location": "Dunga Road, Industrial Area",
+    "country": "Kenya",
+    "signature": null,
+    "email": "achotai@executivekenya.com",
+    "company_directors": [],
+    "security_question_status": true,
+    "signature_status": false,
+    "identification_document_status": true,
+    "back_office": false,
+    "usertype": "COMPANY",
+    "usercategorytype": "PUBLIC_COMPANY",
+    "roles": [
+        {
+            "id": 1,
+            "rolename": "PUBLIC",
+            "is_devolved": null
+        }
+    ],
+    "ardhipay_roles": [],
+    "profile_photo": "https://ardhisasa-api.lands.go.ke/sharedservice/media/2023/10/18/11/f7ed97ec-1cfa-4edb-8689-b2c71e7b36d4.jpeg",
+    "enable_phone_notification": true,
+    "enable_email_notification": true,
+    "enable_system_notification": true,
+    "account_status": "ACTIVE",
+    "account_number": "CB0L08L90A",
+    "user_account_status": "ACTIVE",
+    "availability_status": "AVAILABLE",
+    "username": "CPR/2012/79231",
+    "identification_documents": [
+        {
+            "id": "27125aec-8b2c-44ac-bd19-95610336f356",
+            "document": "https://ardhisasa-api.lands.go.ke/sharedservice/media/2023/10/05/12/27125aec-8b2c-44ac-bd19-95610336f356.pdf",
+            "document_name": "CERTIFICATE OF REGISTRATION",
+            "uploader": null,
+            "document_type": null,
+            "identification_number": "CPR/2012/79231",
+            "identification_type": "COMPANY",
+            "is_primary": false
+        }
+    ],
+    "unique_identification_documents": [
+        {
+            "documents": [
+                {
+                    "document_name": "CERTIFICATE OF REGISTRATION",
+                    "document_url": "https://ardhisasa-api.lands.go.ke/sharedservice/media/2023/10/05/12/27125aec-8b2c-44ac-bd19-95610336f356.pdf",
+                    "uploader": null
+                }
+            ],
+            "document_type": null,
+            "id": "27125aec-8b2c-44ac-bd19-95610336f356",
+            "identification_number": "CPR/2012/79231",
+            "identification_type": "COMPANY",
+            "is_primary": false
+        }
+    ],
+    "verification_level": [
+        {
+            "id": "7a3b9ebd-91f3-4264-9e56-7719a0047ac0",
+            "verification_level": "SECURITY_QUESTIONS_VERIFIED",
+            "verification_step": "3",
+            "date_verified": "2023-10-05T12:36:56.519232"
+        },
+        {
+            "id": "3cb4f13c-2be7-4a28-a467-21d6b3376e05",
+            "verification_level": "PROFILE_INFORMATION_VERIFIED",
+            "verification_step": "2",
+            "date_verified": "2023-10-18T11:29:06.047949"
+        }
+    ]
+}

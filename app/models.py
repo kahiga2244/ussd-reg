@@ -6,6 +6,10 @@ class User(models.Model):
         ("ALIEN", "Alien ID"),
         ("MAISHA", "Maisha ID"),
     ]
+    ardhisasa_id = models.CharField(
+        max_length=20,
+        unique=True
+    )
 
     id_type = models.CharField(max_length=20, choices=ID_TYPES)
     id_number = models.CharField(max_length=30, unique=True)

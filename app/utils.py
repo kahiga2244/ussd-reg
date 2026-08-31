@@ -5,7 +5,7 @@ def valid_email(email):
 
     pattern = r'^[\w\.-]+@[\w\.-]+\.\w+$'
 
-    return re.match(pattern, email)
+    return bool(re.match(pattern, email))
 
 
 def valid_phone(phone):
@@ -16,5 +16,4 @@ def valid_phone(phone):
 
 
 def valid_id_number(id_number):
-
-    return len(id_number) >= 6
+    return id_number.isdigit() and len(id_number) >= 6
